@@ -1,0 +1,118 @@
+body {
+    background-image: url("img/circuit-board.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.title{
+    font-family: 'Aldrich';
+    font-size: 45px;
+    text-shadow: 1px 1px 1px silver, -1px -1px 1px silver;
+}
+
+.navbar {
+    border: 2px solid black;
+    /* background-color: rgba(40, 40, 40, .98); */
+    background-color: rgba(255, 255, 255, .98);
+    margin-top: 10px;
+    padding: 5px;
+    font-family: 'Aldrich';
+
+}
+
+.welcome-container{
+    height: 90vh;
+}
+
+.header-container {
+    padding-top: 2px;
+    margin-top: 15%;
+    /* background-color: rgba(40, 40, 40, .98); */
+    background-color: rgba(255, 255, 255, .98);
+    border: 2px solid black;
+    text-align: center;
+    color: black;
+    font-family: 'Aldrich';
+    text-shadow: 1px 1px 1px silver, -1px -1px 1px silver;
+    font-weight: bolder;
+}
+
+.about-container {
+    /* height: 85vh; */
+    height: auto;
+    width: auto;
+    padding-bottom: 50px;
+    background-color: rgba(255, 255, 255, .98);
+    border: 2px solid black;
+    text-align: center;
+}
+
+.section-title{
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#aboutme-text {
+    font-size: 20px;
+    font-family: 'Andada';
+}
+
+.spacer{
+    background-color: black;
+    width: 100px;
+    height: 2px;
+    margin: auto;
+}
+
+.skills-container {
+    height: auto;
+    width: auto;
+    margin-top: 70px;
+    padding-bottom: 25px;
+    background-color: rgba(255, 255, 255, .98);
+    border: 2px solid black;
+    text-align: center;
+}
+
+.edu-container {
+    height: auto;
+    width: auto;
+    margin-top: 70px;
+    padding-bottom: 25px;
+    background-color: rgba(255, 255, 255, .98);
+    border: 2px solid black;
+    text-align: center;
+}
+
+.exp-container {
+    height: auto;
+    width: auto;
+    margin-top: 70px;
+    padding-bottom: 25px;
+    background-color: rgba(255, 255, 255, .98);
+    border: 2px solid black;
+    text-align: center;
+}
+
+.contact-container {
+    /* height: 60vh; */
+    height: auto;
+    width: auto;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, .98);
+    border: 2px solid black;
+    text-align: center;
+}
+
+.catchphrase {
+    font-family: 'Aldrich';
+    font-size: 15px;
+    margin-bottom: 3rem;
+}
+
+#myphoto{
+    border: 1px solid black;
+}
+
